@@ -1,0 +1,6 @@
+{
+  "appId": "com.woyofal.flight",
+  "appName": "WoyoFlight",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
