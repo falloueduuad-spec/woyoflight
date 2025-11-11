@@ -1,0 +1,30 @@
+{
+  "name": "woyoflight-mvp",
+  "version": "1.0.0",
+  "description": "Never run out of electricity again - Hedera blockchain electricity management",
+  "main": "mvp.tsx",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios"
+  },
+  "dependencies": {
+    "@hashgraph/sdk": "^2.73.2",
+    "react-native": "^0.72.0",
+    "lucide-react-native": "^0.263.1"
+  },
+  "keywords": [
+    "hedera",
+    "blockchain",
+    "africa",
+    "senegal",
+    "electricity",
+    "woyofal",
+    "fintech"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
+```
+
+https://github.com/[votre-username]/woyoflight-mvp
